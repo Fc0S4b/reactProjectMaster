@@ -49,4 +49,4 @@ export const social = [
     url: 'https://www.twitter.com',
     icon: <FaBehance />,
   },
-]
+] 
