@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import SingleColor from './SingleColor';
 
 import Values from 'values.js';
+// https://github.com/noeldelgado/values.js/blob/master/README.md
 
 function App() {
   const [color, setColor] = useState('');
