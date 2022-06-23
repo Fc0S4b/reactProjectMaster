@@ -1,4 +1,4 @@
-# React Projects
+# React Projects- (This Readme was written by John Smilga, I made the repository for practice purposes)
 
 #### React Course
 
